@@ -1,0 +1,39 @@
+.container select {
+    background: transparent;
+    width: 100%;
+    padding: 1%;
+    font-size: 200%;
+    border: 1px solid #ccc;
+    height: 50px;
+    border-radius: 15px;
+}
+.container{
+    position: absolute;
+    left: 43%;
+    width: 14%;
+    height: 50px;
+    background:  no-repeat right #5ed1dd;
+    border-radius: 15px;
+}
+.content{
+    position: relative;
+    top: 60px;
+}
+.temp {
+    position:relative;
+    font-size: 300%;
+
+}
+.image{
+    position: relative;
+    font-size: 100%;
+    left: 43%;
+}
+table {
+    width: 300px;
+    padding: 5px;
+    border: 1px double blue;
+}
+td{
+    border: 1px solid blue;
+}
